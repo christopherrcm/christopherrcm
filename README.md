@@ -8,7 +8,7 @@
 
 ## 👋 Sobre mim
 
-Sou desenvolvedor com foco em **sistemas embarcados**, especializado em programação com **C++, C e Python** para plataformas como **Arduino**, **ESP32** e **Raspberry Pi**, além de trabalhar com equipamentos de automação industrial, como **Controladores Lógicos Programáveis (CLP), inversores de frequência, Interfaces Homem-máquina (IHM),** **SIEMENS** e **DELTA**.
+Sou desenvolvedor com foco em **sistemas embarcados**, especializado em programação com **C++, C e Python** para plataformas como **Arduino**, **ESP32** e **Raspberry Pi**, além de trabalhar com equipamentos de automação industrial, como **Controladores Lógicos Programáveis (CLP), inversores de frequência, Interfaces Homem-máquina (IHM),** das marcas**SIEMENS** e **DELTA**.
 
 Tenho experiência na criação de **soluções integradas para automação, IoT e prototipagem**, unindo hardware e software de forma eficiente e confiável. Busco desenvolver **sistemas robustos, escaláveis e bem documentados**, com foco em performance e clareza de código.
 
